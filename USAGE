@@ -8,6 +8,13 @@ Input files (directed graph):
 To run the socialrank algorithm, you need to first have the .nodes and .edges files corresponding to your graph ready.
 Check out an example graph in the example/ directory (sample.nodes and sample.edges).
 
+.nodes format (1 row per node):
+<nodeid> <label>
+
+.edges format (1 row per directed edge):
+<src_nodeid> <dest_nodeid>
+
+
 To run the algorithm, simply run:
 ./socialrank summary_stats.txt graphname > debug.log
 (You need to have the files graphname.nodes and graphname.edges)
