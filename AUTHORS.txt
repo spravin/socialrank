@@ -1,0 +1,8 @@
+Authors:
+
+Mangesh Gupte: mangesh@cs.rutgers.edu
+Pravin Shankar: mail@spravin.com
+Jing Li: lijing@mit.edu
+S Muthukrishnan: muthu@cs.rutgers.edu
+Liviu Iftode: iftode@cs.rutgers.edu
+
