@@ -30,9 +30,15 @@ If you find this code useful, and use it in a publication, please
 cite the above paper. Here is the bibtex entry:
 
 @inproceedings{gupte2011hierarchy,
+
    author =       "Mangesh Gupte and Pravin Shankar and Jing Li and S Muthukrishnan and Liviu Iftode",
+   
    title =        "{Finding Hierarchy in Directed Online Social Networks}",
+   
    booktitle =    {20th International World Wide Web Conference (WWW 2011)},
+   
    year =         {2011},
+   
    month =        {March}
+
 }
